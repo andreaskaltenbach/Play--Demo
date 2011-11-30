@@ -1,0 +1,8 @@
+#IDEA generated files
+*.iml
+**/*.iml
+.idea
+*.ipr
+*.iws
+
+/tmp/**
